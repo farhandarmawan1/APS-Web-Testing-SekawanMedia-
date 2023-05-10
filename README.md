@@ -28,7 +28,7 @@
    ```
 
 ## 📝 Reports
-- [Report Web Test Automation](https://lapakumkm-uitestingreport.netlify.app/feature-overview.html](https://645b87700ef8c600b56fe5aa--stupendous-moonbeam-193290.netlify.app/feature-overview.html)
+- [Report Web Test Automation](https://645b87700ef8c600b56fe5aa--stupendous-moonbeam-193290.netlify.app/feature-overview.html)
 
 
 ## Language and Tools
