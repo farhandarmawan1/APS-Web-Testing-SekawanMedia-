@@ -16,11 +16,11 @@
 ## How to Run
 1. Clone this repository using this command
    ```sh
-   git clone https://github.com/ALTA-LapakUMKM-Group-2/LapakUMKM-UITesting.git
+   git clone https://github.com/farhandarmawan1/APS-WebTesting-SekawanMedia
    ```
 2. Change directory to project directory
    ```sh
-   cd LapakUMKM-UITesting
+   cd APS-WebTesting-SekawanMedia
    ```
 3. Run using this command
    ```sh
